@@ -17,7 +17,7 @@ const Login  = () => {
                 </form>
                 <div className='mt-3 gap-4 flex items-center'>
                 {/* <p className=''>Already have a account?</p><Link to={'/login'} className='mr-3 inline-block font-semibold'>Log in</Link> */}
-                </div>
+                </div>  
             </div>
             <div className='hidden md:block'>
                 <img src={signupimg} className=' w-2/3' alt="Sign Uo Image" />

@@ -7,4 +7,12 @@ padding: 0;
 box-sizing: border-box;
 }
 
+:root{
+    --primary-color: #053365;
+    --secondary-color: #249FFF;
+    --white-color-:#FFFFFF;
+    --grey-color-:#D0D0D0;
+    --black-color-:#000000;
+
+}
 

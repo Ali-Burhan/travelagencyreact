@@ -1,0 +1,7 @@
+.imageset{
+    background-color: aquamarine;
+    background: url('../../../assets/admin/sideimage.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
